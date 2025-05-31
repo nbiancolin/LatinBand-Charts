@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container>
+  <rootfiles>
+    <rootfile full-path="score_style.mss"/>
+    <rootfile full-path="Aguas-de-Marco.mscx"/>
+    <rootfile full-path="Excerpts/0_Voice/0_Voice.mss"/>
+    <rootfile full-path="Excerpts/0_Voice/0_Voice.mscx"/>
+    <rootfile full-path="Excerpts/1_Alto/1_Alto.mss"/>
+    <rootfile full-path="Excerpts/1_Alto/1_Alto.mscx"/>
+    <rootfile full-path="Excerpts/2_Trumpet_1/2_Trumpet_1.mss"/>
+    <rootfile full-path="Excerpts/2_Trumpet_1/2_Trumpet_1.mscx"/>
+    <rootfile full-path="Excerpts/3_Trumpet_2/3_Trumpet_2.mss"/>
+    <rootfile full-path="Excerpts/3_Trumpet_2/3_Trumpet_2.mscx"/>
+    <rootfile full-path="Excerpts/4_Alto_Sax/4_Alto_Sax.mss"/>
+    <rootfile full-path="Excerpts/4_Alto_Sax/4_Alto_Sax.mscx"/>
+    <rootfile full-path="Excerpts/5_Trombone/5_Trombone.mss"/>
+    <rootfile full-path="Excerpts/5_Trombone/5_Trombone.mscx"/>
+    <rootfile full-path="Excerpts/6_Bari_Sax/6_Bari_Sax.mss"/>
+    <rootfile full-path="Excerpts/6_Bari_Sax/6_Bari_Sax.mscx"/>
+    <rootfile full-path="Excerpts/7_Piano/7_Piano.mss"/>
+    <rootfile full-path="Excerpts/7_Piano/7_Piano.mscx"/>
+    <rootfile full-path="Excerpts/8_Acoustic_Bass/8_Acoustic_Bass.mss"/>
+    <rootfile full-path="Excerpts/8_Acoustic_Bass/8_Acoustic_Bass.mscx"/>
+    <rootfile full-path="Excerpts/9_Drum_Kit/9_Drum_Kit.mss"/>
+    <rootfile full-path="Excerpts/9_Drum_Kit/9_Drum_Kit.mscx"/>
+    <rootfile full-path="Thumbnails/thumbnail.png"/>
+    <rootfile full-path="audiosettings.json"/>
+    <rootfile full-path="viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_Voice/viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_Voice/audiosettings.json"/>
+    <rootfile full-path="Excerpts/1_Alto/viewsettings.json"/>
+    <rootfile full-path="Excerpts/1_Alto/audiosettings.json"/>
+    <rootfile full-path="Excerpts/2_Trumpet_1/viewsettings.json"/>
+    <rootfile full-path="Excerpts/2_Trumpet_1/audiosettings.json"/>
+    <rootfile full-path="Excerpts/3_Trumpet_2/viewsettings.json"/>
+    <rootfile full-path="Excerpts/3_Trumpet_2/audiosettings.json"/>
+    <rootfile full-path="Excerpts/4_Alto_Sax/viewsettings.json"/>
+    <rootfile full-path="Excerpts/4_Alto_Sax/audiosettings.json"/>
+    <rootfile full-path="Excerpts/5_Trombone/viewsettings.json"/>
+    <rootfile full-path="Excerpts/5_Trombone/audiosettings.json"/>
+    <rootfile full-path="Excerpts/6_Bari_Sax/viewsettings.json"/>
+    <rootfile full-path="Excerpts/6_Bari_Sax/audiosettings.json"/>
+    <rootfile full-path="Excerpts/7_Piano/viewsettings.json"/>
+    <rootfile full-path="Excerpts/7_Piano/audiosettings.json"/>
+    <rootfile full-path="Excerpts/8_Acoustic_Bass/viewsettings.json"/>
+    <rootfile full-path="Excerpts/8_Acoustic_Bass/audiosettings.json"/>
+    <rootfile full-path="Excerpts/9_Drum_Kit/viewsettings.json"/>
+    <rootfile full-path="Excerpts/9_Drum_Kit/audiosettings.json"/>
+    </rootfiles>
+  </container>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container>
+  <rootfiles>
+    <rootfile full-path="score_style.mss"/>
+    <rootfile full-path="Chega-de-Saudade-Jobim.mscx"/>
+    <rootfile full-path="Excerpts/0_Alto/0_Alto.mss"/>
+    <rootfile full-path="Excerpts/0_Alto/0_Alto.mscx"/>
+    <rootfile full-path="Excerpts/1_Trumpet_1/1_Trumpet_1.mss"/>
+    <rootfile full-path="Excerpts/1_Trumpet_1/1_Trumpet_1.mscx"/>
+    <rootfile full-path="Excerpts/2_Trumpet_2/2_Trumpet_2.mss"/>
+    <rootfile full-path="Excerpts/2_Trumpet_2/2_Trumpet_2.mscx"/>
+    <rootfile full-path="Excerpts/3_Alto_Sax/3_Alto_Sax.mss"/>
+    <rootfile full-path="Excerpts/3_Alto_Sax/3_Alto_Sax.mscx"/>
+    <rootfile full-path="Excerpts/4_Trombone/4_Trombone.mss"/>
+    <rootfile full-path="Excerpts/4_Trombone/4_Trombone.mscx"/>
+    <rootfile full-path="Excerpts/5_Baritone_Saxophone/5_Baritone_Saxophone.mss"/>
+    <rootfile full-path="Excerpts/5_Baritone_Saxophone/5_Baritone_Saxophone.mscx"/>
+    <rootfile full-path="Excerpts/6_Piano/6_Piano.mss"/>
+    <rootfile full-path="Excerpts/6_Piano/6_Piano.mscx"/>
+    <rootfile full-path="Excerpts/7_Acoustic_Bass/7_Acoustic_Bass.mss"/>
+    <rootfile full-path="Excerpts/7_Acoustic_Bass/7_Acoustic_Bass.mscx"/>
+    <rootfile full-path="Excerpts/8_Drum_Kit/8_Drum_Kit.mss"/>
+    <rootfile full-path="Excerpts/8_Drum_Kit/8_Drum_Kit.mscx"/>
+    <rootfile full-path="Thumbnails/thumbnail.png"/>
+    <rootfile full-path="audiosettings.json"/>
+    <rootfile full-path="viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_Alto/viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_Alto/audiosettings.json"/>
+    <rootfile full-path="Excerpts/1_Trumpet_1/viewsettings.json"/>
+    <rootfile full-path="Excerpts/1_Trumpet_1/audiosettings.json"/>
+    <rootfile full-path="Excerpts/2_Trumpet_2/viewsettings.json"/>
+    <rootfile full-path="Excerpts/2_Trumpet_2/audiosettings.json"/>
+    <rootfile full-path="Excerpts/3_Alto_Sax/viewsettings.json"/>
+    <rootfile full-path="Excerpts/3_Alto_Sax/audiosettings.json"/>
+    <rootfile full-path="Excerpts/4_Trombone/viewsettings.json"/>
+    <rootfile full-path="Excerpts/4_Trombone/audiosettings.json"/>
+    <rootfile full-path="Excerpts/5_Baritone_Saxophone/viewsettings.json"/>
+    <rootfile full-path="Excerpts/5_Baritone_Saxophone/audiosettings.json"/>
+    <rootfile full-path="Excerpts/6_Piano/viewsettings.json"/>
+    <rootfile full-path="Excerpts/6_Piano/audiosettings.json"/>
+    <rootfile full-path="Excerpts/7_Acoustic_Bass/viewsettings.json"/>
+    <rootfile full-path="Excerpts/7_Acoustic_Bass/audiosettings.json"/>
+    <rootfile full-path="Excerpts/8_Drum_Kit/viewsettings.json"/>
+    <rootfile full-path="Excerpts/8_Drum_Kit/audiosettings.json"/>
+    </rootfiles>
+  </container>
