@@ -9,5 +9,5 @@ List of tunes in here:
 - Meditiation -- IN PROGRESS
 - Menina Flor -- IN PROGRESS
 - My funny valenitne -- FINISHED
-- O sole mio -- IN PROGRESS (working on now lmao)
+- O sole mio -- IN PROGRESS needs lots of work
 - Solitude and the sea (Soledad y el mar) -- IN PROGRESS almost finished

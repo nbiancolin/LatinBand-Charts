@@ -1,5 +1,5 @@
 {
-    "activeSoundProfile": "Muse Sounds",
+    "activeSoundProfile": "MuseSounds",
     "aux": [
         {
             "out": {
@@ -59,7 +59,7 @@
                         "playbackSetupData": "winds.trumpet"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "Muse Brass\\Trumpet\\110",
+                    "id": "110",
                     "type": "muse_sampler_sound_pack",
                     "vendor": "MuseSounds"
                 },
@@ -93,27 +93,27 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
-                        "museCategory": "Muse Keys",
-                        "museName": "Grand Piano",
-                        "musePack": "Muse Keys",
-                        "museUID": "167",
+                        "museCategory": "Muse Brass",
+                        "museName": "Trumpet",
+                        "musePack": "Muse Brass",
+                        "museUID": "110",
                         "museVendorName": "Muse",
-                        "playbackSetupData": "keyboards.piano"
+                        "playbackSetupData": "winds.trumpet"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "Muse Keys\\Grand Piano\\167",
+                    "id": "110",
                     "type": "muse_sampler_sound_pack",
                     "vendor": "MuseSounds"
                 },
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "chord_symbols",
+            "instrumentId": "bb-trumpet",
             "out": {
                 "auxSends": [
                     {
                         "active": true,
-                        "signalAmount": 0.15000000596046448
+                        "signalAmount": 0.4000000059604645
                     },
                     {
                         "active": true,
@@ -123,11 +123,11 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": 4.699999809265137
             },
-            "partId": "6",
+            "partId": "2",
             "soloMuteState": {
-                "mute": true,
+                "mute": false,
                 "solo": false
             }
         },
@@ -143,7 +143,7 @@
                         "playbackSetupData": "winds.trombone"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "Muse Brass\\Trombone\\112",
+                    "id": "112",
                     "type": "muse_sampler_sound_pack",
                     "vendor": "MuseSounds"
                 },
@@ -213,7 +213,7 @@
                         "playbackSetupData": "keyboards.piano"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "Muse Keys\\Grand Piano\\167",
+                    "id": "167",
                     "type": "muse_sampler_sound_pack",
                     "vendor": "MuseSounds"
                 },
@@ -247,90 +247,6 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
-                        "museCategory": "Muse Keys",
-                        "museName": "Grand Piano",
-                        "musePack": "Muse Keys",
-                        "museUID": "167",
-                        "museVendorName": "Muse",
-                        "playbackSetupData": "keyboards.piano"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "Muse Keys\\Grand Piano\\167",
-                    "type": "muse_sampler_sound_pack",
-                    "vendor": "MuseSounds"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "piano",
-            "out": {
-                "auxSends": [
-                    {
-                        "active": true,
-                        "signalAmount": 0.15000000596046448
-                    },
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    }
-                ],
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 0
-            },
-            "partId": "6",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                        "museCategory": "Muse Brass",
-                        "museName": "Trumpet",
-                        "musePack": "Muse Brass",
-                        "museUID": "110",
-                        "museVendorName": "Muse",
-                        "playbackSetupData": "winds.trumpet"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "Muse Brass\\Trumpet\\110",
-                    "type": "muse_sampler_sound_pack",
-                    "vendor": "MuseSounds"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "bb-trumpet",
-            "out": {
-                "auxSends": [
-                    {
-                        "active": true,
-                        "signalAmount": 0.4000000059604645
-                    },
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    }
-                ],
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 4.699999809265137
-            },
-            "partId": "2",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
                         "museCategory": "Muse Woodwinds",
                         "museName": "Alto Sax",
                         "musePack": "Muse Woodwinds",
@@ -339,7 +255,7 @@
                         "playbackSetupData": "winds.saxophone.alto"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "Muse Woodwinds\\Alto Sax\\130",
+                    "id": "130",
                     "type": "muse_sampler_sound_pack",
                     "vendor": "MuseSounds"
                 },
@@ -381,7 +297,7 @@
                         "playbackSetupData": "winds.saxophone.baritone"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "Muse Woodwinds\\Baritone Sax\\132",
+                    "id": "132",
                     "type": "muse_sampler_sound_pack",
                     "vendor": "MuseSounds"
                 },
@@ -406,6 +322,128 @@
                 "volumeDb": -5.300000190734863
             },
             "partId": "5",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Keys",
+                        "museName": "Grand Piano",
+                        "musePack": "Muse Keys",
+                        "museUID": "167",
+                        "museVendorName": "Muse",
+                        "playbackSetupData": "keyboards.piano"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "167",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "MuseSounds"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "piano",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.15000000596046448
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "7",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "soundFontName": "MS Basic"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "acoustic-bass",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "8",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Percussion",
+                        "museName": "Drum Kit",
+                        "musePack": "Muse Percussion",
+                        "museUID": "178",
+                        "museVendorName": "Muse",
+                        "playbackSetupData": "percussions.drumset.5_piece"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "178",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "MuseSounds"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "drum-kit-5",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.10000000149011612
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "9",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
