@@ -4,8 +4,8 @@ latin band charts
 
 List of tunes in here:
 
-- Waters of March (aguas de marco) -- FINISHED needs cleanup / revisit
-- No more blues (chega de saudade) -- FINISHED needs cleanup / revisit
+- Waters of March (aguas de marco) -- FINISHED 
+- No more blues (chega de saudade) -- FINISHED
 - Meditiation -- IN PROGRESS
 - Menina Flor -- IN PROGRESS
 - My funny valenitne -- FINISHED
